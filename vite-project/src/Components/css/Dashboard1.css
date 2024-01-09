@@ -1,0 +1,127 @@
+.dashboard-header {
+    display: flex;
+    width: 1216px;
+    height: 64px;
+    padding: 12px 32px;
+    align-items: center;
+    gap: 16px;
+    border-bottom: 1px solid #D9D9D9;
+    background: #FFF;
+  }
+  
+  .frame-101 {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex: 1 0 0;
+    width: 360px;
+    height: 28px;
+    border: 2px solid red;
+  }
+  
+  .frame-101-text {
+    width: 81px;
+    height: 28px;
+    color: #1A181E;
+    font-family: Galano Grotesque;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+  }
+  
+  .frame-101-how-it-works {
+    width: 94px;
+    height: 16px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  
+  .how-it-works-text {
+    color: #4D4D4D;
+    font-family: Galano Grotesque;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    width: 74px;
+    height: 16px;
+  }
+  
+  .frame-102 {
+    width: 400px;
+    height: 40px;
+    display: flex;
+    width: 400px;
+    padding: 9px 16px;
+    align-items: center;
+    gap: 16px;
+    flex-shrink: 0;
+    align-self: stretch;
+    border: 2px solid yellowgreen;
+  }
+  
+  .search_logo {
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+  }
+  
+  .search_text {
+    width: 218px;
+    height: 22px;
+    color: #808080;
+    font-family: Galano Grotesque;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+  }
+  
+  .frame-103 {
+    width: 360px;
+    height: 40px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 8px;
+    flex: 1 0 0;
+    border: 2px solid blue;
+  }
+  
+  .frame-msg-drop {
+    width: 92px;
+    height: 40px;
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    border: 2px solid rgb(21, 84, 16);
+  }
+  
+  .rect-1 {
+    width: 40px;
+    height: 40px;
+    border: 2px solid hotpink;
+  }
+  
+  .ellipse {
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+    fill: #E6E6E6;
+  }
+  
+  .icon-under-ellipse {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    /* gap: 7px; */
+    padding: 7px;
+  }
+  
+  .rect-2 {
+    width: 40px;
+    height: 40px;
+    border: 2px solid rgb(186, 237, 5);
+  }
